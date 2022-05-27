@@ -1,0 +1,99 @@
+#container {
+  background-color: rgb(90, 89, 121);
+}
+
+#navbar {
+  border: 1px solid red;
+  width: 100%;
+  height: 80px;
+  display: flex;
+}
+#logo {
+  width: 10%;
+  height: 40%;
+}
+#logo-img {
+  width: 80%;
+  margin: 10px;
+}
+
+#navbar-post {
+  display: flex;
+  border: 1px solid;
+  width: 8%;
+  height: 60%;
+  margin: 10px;
+  background-color: rgb(76, 239, 76);
+}
+#new-but {
+  width: 4%;
+  height: 50%;
+  margin: 10px;
+  border-radius: 4px;
+  border:none;
+}
+
+#title-new-post{
+ color: white;
+ font-weight: bold;
+}
+
+
+#post-search{
+    width:40%;
+    height: 50px;
+    margin-top:10px;
+    border-radius: 5px;
+border: none;
+font-size: 18px;
+padding-left: 10px;
+background-color: rgb(216, 199, 199)
+}
+
+#ad-free{
+    margin:10px;
+    color:white;
+    background-color:blueviolet;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+}
+#sign-in{
+    margin-left:70px;
+    color:white;
+    background-color:rgb(90,89,121);
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+#sign-up{
+    margin:10px;
+    margin-left:160px;
+    color:white;
+    background-color:green;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#data{
+   
+display:flex;
+flex-wrap: wrap;
+margin:10px;
+justify-content: space-between;
+
+}
+#item {
+
+ 
+}
+#poster{
+    width:400px;
+    height:auto;
+}
